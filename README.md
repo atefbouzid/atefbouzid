@@ -1,12 +1,12 @@
 
 <h1 align="center">Greetings, I'm Atef Bouzid</h1>
-<h3 align="center">A multidisciplinary Engineering student based in Tunisia</h3>
+<h3 align="center">AI FullStack Engineer | Master 2 Data Science @Institute Polytechnique de Paris</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atefbouzid&label=Profile%20views&color=0e75b6&style=flat" alt="atefbouzid" /> </p>
 
 <h3 style="text-align: left;">Connect with me:</h3>
 <p style="text-align: left;">
-<strong>Email:</strong> <a href="mailto:atef.bouzid@ept.ucar.tn">atef.bouzid@ept.ucar.tn</a> ✉️<br>
+<strong>Email:</strong> <a href="mailto:atef.bouzid@telecom-paris.fr">atef.bouzid@telecom-paris.fr</a> ✉️<br>
 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/atef-bouzid-a3690b246">Atef Bouzid</a> 🔗
 </p>
 
